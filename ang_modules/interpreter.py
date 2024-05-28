@@ -1,3 +1,5 @@
+# Author: Kumar Anurag <me@kmranrg.com>
+
 class Interpreter:
     def __init__(self, ast):
         self.ast = ast

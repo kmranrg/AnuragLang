@@ -1,0 +1,13 @@
+# Loop Game
+
+produce("Let's play a simple descending order game...");
+produce("Tell me a number and I will keep on descending that number until I reach one...");
+produce("Enter number:");
+take(num);
+produce("good, the number has been received...");
+produce("---------------------------");
+
+while (num > 0) {
+    produce(num);
+    assume num = num - 1;
+}

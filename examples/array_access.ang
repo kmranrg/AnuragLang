@@ -1,0 +1,25 @@
+# Hi, I am commented
+
+produce("Please see the array elments below:");
+assume arr = [10,20,30];
+produce(arr);
+
+produce("First element of array at index 0 is:");
+produce(arr[0]);
+
+produce("Second element of array at index 1 is:");
+produce(arr[1]);
+
+produce("First element of array at index 2 is:");
+produce(arr[2]);
+
+produce("---------------------------------");
+
+produce("Accessing array elements via index -");
+assume index = 0;
+
+while (index < 3) {
+    produce("Array element");
+    produce(arr[index]);
+    assume index = index + 1;
+}

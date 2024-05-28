@@ -1,0 +1,17 @@
+function add(x,y) {
+    return x+y;
+}
+
+produce("Enter first number:");
+take(first);
+produce("First number is:");
+produce(first);
+
+produce("Enter second number:");
+take(second);
+produce("Second number is:");
+produce(second);
+
+assume result = add(first, second);
+produce("Addition result is:");
+produce(result);

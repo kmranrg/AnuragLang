@@ -1,0 +1,7 @@
+assume x = 5;
+produce(x);
+incase (x < 4) {
+    produce(x);
+} otherwise {
+    produce(4);
+}

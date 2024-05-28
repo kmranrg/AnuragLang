@@ -1,0 +1,8 @@
+produce("Hello, please enter your age:");
+take(age);
+
+incase (age > 18) {
+    produce("Congrats, you are eligible to vote in India");
+} otherwise {
+    produce("Sorry, you can't vote right now as your age is less than 18 years.");
+}

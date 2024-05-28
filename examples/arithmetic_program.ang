@@ -1,0 +1,6 @@
+assume x = 5;
+assume y = 3;
+produce(x + y);
+produce(x - y);
+produce(x * y);
+produce(x / y);

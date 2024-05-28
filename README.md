@@ -1,8 +1,8 @@
+<img src="https://github.com/kmranrg/AnuragLang/blob/main/logo/logo.jpg" width=250 /> 
+
 # 🚀 AnuragLang
 
 Welcome to AnuragLang, a simple yet powerful programming language designed for expressiveness and ease of use!
-
-![AnuragLang Logo](images/anuraglang_logo.png)
 
 ## What is AnuragLang?
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/kmranrg/AnuragLang/blob/main/logo/gray_circular.png" width=250 /> 
+<p align="center"><img src="https://github.com/kmranrg/AnuragLang/blob/main/logo/gray_circular.png" width=250 /></p>
 
 # 🚀 AnuragLang
 
